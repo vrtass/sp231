@@ -2,9 +2,9 @@
 ---
 # sp231
 
-[GitHub](https://github.com/vrtass/sp231/) | | [LOG](TXT/mylog.txt) | | [LINKS](LINKS/)
+[GitHub](https://github.com/vrtass/sp231/) | | [LOG](TXT/mylog.txt)
 
 ## May the fork() be with you!
 
-#### Rev 001 --- 25 Feb 2023
+#### Rev 002 --- 25 Feb 2023
 
